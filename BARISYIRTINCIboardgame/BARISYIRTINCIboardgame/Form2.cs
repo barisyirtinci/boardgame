@@ -26,7 +26,7 @@ namespace BARISYIRTINCIboardgame
 
         private void aBOUTToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            aboutScreen.Show();
+            aboutScreen.ShowDialog();
         }
     }
 }
