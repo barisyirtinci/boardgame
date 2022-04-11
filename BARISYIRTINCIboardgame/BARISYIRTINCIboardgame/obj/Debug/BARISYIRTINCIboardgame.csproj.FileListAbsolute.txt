@@ -1,0 +1,12 @@
+C:\Users\brsyr\source\repos\BARISYIRTINCIboardgame\BARISYIRTINCIboardgame\bin\Debug\BARISYIRTINCIboardgame.exe.config
+C:\Users\brsyr\source\repos\BARISYIRTINCIboardgame\BARISYIRTINCIboardgame\bin\Debug\BARISYIRTINCIboardgame.exe
+C:\Users\brsyr\source\repos\BARISYIRTINCIboardgame\BARISYIRTINCIboardgame\bin\Debug\BARISYIRTINCIboardgame.pdb
+C:\Users\brsyr\source\repos\BARISYIRTINCIboardgame\BARISYIRTINCIboardgame\obj\Debug\BARISYIRTINCIboardgame.csprojAssemblyReference.cache
+C:\Users\brsyr\source\repos\BARISYIRTINCIboardgame\BARISYIRTINCIboardgame\obj\Debug\BARISYIRTINCIboardgame.Form1.resources
+C:\Users\brsyr\source\repos\BARISYIRTINCIboardgame\BARISYIRTINCIboardgame\obj\Debug\BARISYIRTINCIboardgame.Properties.Resources.resources
+C:\Users\brsyr\source\repos\BARISYIRTINCIboardgame\BARISYIRTINCIboardgame\obj\Debug\BARISYIRTINCIboardgame.csproj.GenerateResource.cache
+C:\Users\brsyr\source\repos\BARISYIRTINCIboardgame\BARISYIRTINCIboardgame\obj\Debug\BARISYIRTINCIboardgame.csproj.CoreCompileInputs.cache
+C:\Users\brsyr\source\repos\BARISYIRTINCIboardgame\BARISYIRTINCIboardgame\obj\Debug\BARISYIRTINCIboardgame.exe
+C:\Users\brsyr\source\repos\BARISYIRTINCIboardgame\BARISYIRTINCIboardgame\obj\Debug\BARISYIRTINCIboardgame.pdb
+C:\Users\brsyr\source\repos\BARISYIRTINCIboardgame\BARISYIRTINCIboardgame\obj\Debug\BARISYIRTINCIboardgame.Form2.resources
+C:\Users\brsyr\source\repos\BARISYIRTINCIboardgame\BARISYIRTINCIboardgame\obj\Debug\BARISYIRTINCIboardgame.AboutScreen.resources
